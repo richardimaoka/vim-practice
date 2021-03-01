@@ -1,7 +1,6 @@
 the problem with these new reqruites is that
 they don't keep their boots clean.
 
-	Line one
-			Line two
-				Line three
-					Line foure
+var foo = 1;
+var bar = 'a';
+var foobar = foo + bar;
