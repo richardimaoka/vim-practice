@@ -11,4 +11,7 @@ We're waiting for copy before the site can go live
 If you are content with this, let's go ahead with it
 We'll launch as soon as we have the copy
 
-The end is nigh
+The end is night
+
+.blog .news { background-image : url(/sprite.png); }
+.blog { background-position : 0px 0px }
