@@ -23,4 +23,20 @@ collection = getCollection();
 process(somethingInTheWay, target);
 
 
-The end is 
+The end is nigh
+
+"a word", select [count] words (see |word|).
+Leading or trailing wite space is included, but not counted.
+
+.blog .news { background-image : url(/sprite.png); }
+.blog { background-position : 0px 0px }
+.news { background-position : -180px 0px }
+
+008
+
+aaa
+.dddas.
+.aaa
+.ssdafdsa.sdfsdf.sf d.s
+
+
