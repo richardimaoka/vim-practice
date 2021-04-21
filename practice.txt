@@ -45,4 +45,9 @@ Practical vim
 3) line three
 
 collection = getCollection();
-process(somethingInTheWay, target);
+process(collection, target);
+
+
+a bb ccc ddd eeee
+ccc
+ddd 
