@@ -35,9 +35,8 @@ Leading or trailing wite space is included, but not counted.
 008
 
 aaa
-.dddas.
 .aaaaaaaa
 d.ssdafdsa.sdfsdf.sf d.s
 sadfsdafdsadfsf[fasdfsdafsdafsdafsdafsdfsdfsadfsafsaf
 
-faaffsdfsafsdafasdfsa
+Practical vim
