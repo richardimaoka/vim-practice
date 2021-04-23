@@ -1,12 +1,18 @@
-the problem with these new reqruites is that
+PROBLEM with these new reqruites is that
 they don't keep their boots clean.
 
+var foo = 1;
+var bar = 'a';
 var foo = 1;
 var bar = 'a';
 var foobar = foo + bar;
 
 var foo = "method(" + argument1 + "," + argument2 + ")";
-
+SELECT a1, b1, c2, d2 FROM table_name where a1 = "aaaaa"
+wE're waiting for content before the site can go live
+We're waiting for content before the site can go live
+We're waiting for content before the site can go live
+We're waiting for content before the site can go live
 We're waiting for content before the site can go live
 If you are content with this, let's go ahead with it
 We'll launch as soon as we have the content
