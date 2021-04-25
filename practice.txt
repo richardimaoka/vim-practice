@@ -8,7 +8,7 @@ var bar = 'a';
 var foobar = foo + bar;
 
 var foo = "method(" + argument1 + "," + argument2 + ")";
-SELECT a1, b1, c2, d2 FROM table_name where a1 = "aaaaa"
+where a1 = "aaaaa"
 wE're waiting for content before the site can go live
 We're waiting for content before the site can go live
 We're waiting for content before the site can go live
@@ -57,3 +57,5 @@ process(collection, target);
 a bb ccc ddd eeee
 ccc
 ddd 
+
+I like  and chips.
