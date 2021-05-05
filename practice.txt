@@ -1,70 +1,11 @@
-PROBLEM with these new reqruites is that
-they don't keep their boots clean.
+When the VMs are healthy, test the load balancer using a web browser, going to http://IP_ADDRESS/, replacing IP_ADDRESS with the load balancer's IP address.
 
-var foo = 1;
-var bar = 'a';
-var foo = 1;
-var bar = 'a';
-var foobar = foo + bar;
+This may take three to five minutes. If you do not connect, wait a minute, and then reload the browser.
 
-var foo = "method(" + argument1 + "," + argument2 + ")";
-where a1 = "aaaaa"
-wE're waiting for content before the site can go live
-We're waiting for content before the site can go live
-We're waiting for content before the site can go live
-We're waiting for content before the site can go live
-We're waiting for content before the site can go live
-If you are content with this, let's go ahead with it
-We'll launch as soon as we have the content
+Your browser should render a page with content showing the name of the instance that served the page, along with its zone (for example, Page served from: lb-backend-group-xxxx).
 
-The end is night
+Go faster.
 
-.blog .news { background-image : url(/sprite.png); }
-.blog { background-position : 0px 0px }
-.news { background-position : -180px -180px }
+e.g. we're going too slow
 
-Practical vim
-
-collection = getCollection();
-process(somethingInTheWay, target);
-
-
-The end is nigh
-
-"a word", select [count] words (see |word|).
-Leading or trailing wite space is included, but not counted.
-
-.blog .news { background-image : url(/sprite.png); }
-.blog { background-position : 0px 0px }
-.news { background-position : -180px 0px }
-
-008
-
-aaa
-.aaaaaaaa
-d.ssdafdsa.sdfsdf.sf d.s
-sadfsdafdsadfsf[fasdfsdafsdafsdafsdafsdfsdfsadfsafsaf
-
-Practical vim
-1) line one
-2) line two
-3) line three
-
-collection = getCollection();
-process(collection, target);
-
-
-a bb ccc ddd eeee
-ccc
-ddd 
-
-I like  and chips.
-
-
-adfa sadf sdaf asuf aaa bbb  eeee
-casdsdaf adfa sadf ssdafsdafsadfsadfsd asdaf 
-
-
-<a href="#">ONE</a>
-<a href="#">TWO</a>
-<a href="#">THREE</a>
+Find the first occurrence of {char} and move to it.
