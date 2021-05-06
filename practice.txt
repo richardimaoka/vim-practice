@@ -5,3 +5,14 @@ Practical Vim, by Drew Neil
 Read Drew Neil's Practical Vim
 
 Find the first occurence of the {char} and move to it. 
+
+search for your tareget
+it only takes a moment 
+to get where you want
+
+
+This phrase takes time but
+eventually gets to the point.
+
+takes time but
+eventually 
