@@ -15,4 +15,10 @@ This phrase takes time but
 eventually gets to the point.
 
 takes time but
-eventually 
+eventually
+
+
+We're waiting for content before the site can go live
+If you are content with this, let's go ahead with it
+we'll launch as sooon as we have the content...
+ 
