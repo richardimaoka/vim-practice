@@ -1,3 +1,7 @@
-Practical Vim, by Drew Neil
+	this is Practical Vim, by Drew Neil
 Read Drew Neil's Practical Vim
 Practical Vim,
+
+Improve your writing by deleting excellent adjectives.
+
+This phrase gets to the point.
