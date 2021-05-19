@@ -1,7 +1,14 @@
-	this is Practical Vim, by Drew Neil
-Read Drew Neil's Practical Vim
-Practical Vim,
+var tpl = [
+  '<a href="{url}"{title}</a>'
+]
 
-Improve your writing by deleting excellent adjectives.
+{
+  "aabb": "bbbbbcccc",
+  "": 123123
+}
 
-This phrase gets to the point.
+<div class="abbdd dddsa aa">
+  <>
+    <div class="">
+
+'<a href="#">{title}</a>'
