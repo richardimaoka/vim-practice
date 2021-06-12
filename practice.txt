@@ -1,14 +1,7 @@
-var tpl = [
-  '<a href="{url}"{title}</a>'
-]
-
-{
-  "aabb": "bbbbbcccc",
-  "": 123123
-}
-
-<div class="abbdd dddsa aa">
-  <>
-    <div class="">
-
-'<a href="#">{title}</a>'
+This is the first line
+This is the second line
+You got on the third line
+This is the second line
+You got on the third line
+Here's the fourth line
+Holy crap, it's the fifth line
