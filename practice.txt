@@ -1,9 +1,5 @@
-This is the first line
-This is the second line
-You got on the third line
-This is the second line
-You got on the third line
-Here's the fourth line
-Holy crap, it's the fifth line
-
-I like fish and chips.
+<!DOCTYPE html>
+<html>
+  <head><title>Practical Vim</title></head>
+  <body><h1>Practical Vim</h1></body>
+</html>
