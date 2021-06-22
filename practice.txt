@@ -1,7 +1,13 @@
 Shopping list
   Hardware Store
-    Sell new hammer
-    Sell nails
-    Sell nails
+    Buy new hammer
   Beauty Parlor
-    Sell nail polish remover
+    Buy nail polish remover
+    Buy nails
+
+<!DOCTYPE html>
+<html>
+  <head><title>Practical Vim</title></head>
+  <body><h1>Practical Vim</h1></body>
+</html>
+
