@@ -1,7 +1,7 @@
 Shopping list
   Hardware Store
-    Buy new hammer
-    Buy nails
-    Buy nails
+    Sell new hammer
+    Sell nails
+    Sell nails
   Beauty Parlor
-    Buy nail polish remover
+    Sell nail polish remover
