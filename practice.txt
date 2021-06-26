@@ -1,19 +1,25 @@
-var foo = 1
-var bar = 'a'
-var baz = 'z'
-var foobar = foo + bar
-var foobarbaz = foo + bar + bar
-
-Shopping list
-  Hardware Store
-    Buy new hammer
-  Beauty Parlor
-    Buy nail polish remover
-    Buy nails
-
 <!DOCTYPE html>
 <html>
   <head><title>Practical Vim</title></head>
   <body><h1>Practical Vim</h1></body>
 </html>
 
+var foo = 1;
+var bar = 'a';
+var baz = 'z';
+var foobar = foo + bar;
+var foobarbaz = foo + bar + bar;
+
+Shopping list
+  Hardware Store
+    Buy nails
+    Buy nails
+    Buy new hammer
+  Beauty Parlor
+    Buy nail polish remover
+    Buy nails
+
+var counter;
+for (counter=1; counter <=10; counter++) {
+  //do something with counter
+};
