@@ -1,32 +1,4 @@
-Shopping list
-  Hardware Store
-    Buy nails
-    Buy nails
-    Buy new hammer
-  Beauty Parlor
-    Buy nail polish remover
-    Buy nails
-    
-<!DOCTYPE html>
-<html>
-  <head><title>Practical Vim</title></head>
-  <body><h1>Practical Vim</h1></body>
-</html>
-
-const foo = 1;
-const bar = 'a';
-const baz = 'z';
-const foobar = foo + bar;
-const foobarbaz = foo + bar + bar;
-
-
-var counter;
-for (counter=1; counter <= 10; counter++) {
-  //do something with counter
-};
-
-var tally;
-for (counter=1; counter <= 10; counter++) {
-  // do something with tally
-}
-
+first name,last name,email
+jane,doe,jane@example.com
+drew,neil,drew@vimcasts.org
+john,smith,john@example.com
