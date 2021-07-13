@@ -1,6 +1,4 @@
-Practical Vim, by Draew Neil;
-Read Drew Neil's Praactical Vim;
-Read Drew Neil's Praactical Vim Read Drew Neil's Practical Vim;
-Read Drew Neil's Praactical Vim;
-Read Drew Neil's Practical Vim;
-
+var counter;
+for (counter=1; counter <= 0; counter++) {
+  // do something with counter
+}
