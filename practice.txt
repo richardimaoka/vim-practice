@@ -19,3 +19,12 @@ The car was the color of a carrot.
 Aim to learn a new programming language each year.
 Which language did you pick up last year?
 Which languages would you like to learn?
+
+class XHTMLDocument < XMLDocument; end
+class XHTMLTag < XMLTag; end
+
+class HttpResponse 
+class HttpRequest
+class HttpHeader
+class HttpClient
+class HttpServer
