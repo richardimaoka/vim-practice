@@ -13,3 +13,9 @@ done very easily using vim editor.
         b. record and play command executions,
         c. making the vim editor as ide for several languages,
         d. and several other @ vi/vim tips & tricks.
+
+The car was the color of a carrot.
+
+Aim to learn a new programming language each year.
+Which language did you pick up last year?
+Which languages would you like to learn?
