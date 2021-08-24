@@ -1,30 +1,14 @@
-The GitHub.com codebase is almost 14 years old.
-When the first commit for GitHub.com was pushed,
-Rails was only two years old. AWS was one.
-Azure and GCP did not yet exist.
-This might not be long in COBOL time, but in internet time it’s quite a lot.
+<!DOCTYPE html>
+<html>
+  <head><title>Practical Vim</title></head>
+  <body><h1>Practical Vim</h1></body>
 
-The GitHub.com codebase is almost 14 years old. When the first commit for GitHub.com was pushed, Rails was only two years old. AWS was one. Azure and GCP did not yet exist. This might not be long in COBOL time, but in internet time it’s quite a lot.
+var tpl = [
+  '<a href="{url}">{title}</a>'
+]
 
-Lot of vi/vim tips and tricks are available at thegeekstuff.com. reading
-these articles will make you very productive. following activities can be
-done very easily using vim editor.
-        a. source code walk through,
-        b. record and play command executions,
-        c. making the vim editor as ide for several languages,
-        d. and several other @ vi/vim tips & tricks.
 
-The car was the color of a carrot.
 
-Aim to learn a new programming language each year.
-Which language did you pick up last year?
-Which languages would you like to learn?
-
-class XHTMLDocument < XMLDocument; end
-class XHTMLTag < XMLTag; end
-
-class HttpResponse 
-class HttpRequest
-class HttpHeader
-class HttpClient
-class HttpServer
+Improve your writing by deleting adjectives.
+The phrase takes time but
+eventually gets to the point.
