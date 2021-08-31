@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html>
-  <head><title>Practical Vim</title></head>
-  <body><h1>Practical Vim</h1></body>
+I like  and chips.
 
-var tpl = [
-  '<a href="{url}">{title}</a>'
-]
-
-
-
-Improve your writing by deleting adjectives.
-The phrase takes time but
-eventually gets to the point.
