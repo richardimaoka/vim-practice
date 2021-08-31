@@ -1,1 +1,2 @@
-on
+collection = getCollection();
+proces (collection, target);
