@@ -1,4 +1,9 @@
 I love Paris in the
 the springtime
 
-<div style="background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
+<div css={css'background-color: black;">inner text</div>
