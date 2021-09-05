@@ -1,9 +1,3 @@
-I love Paris in the
-the springtime
-
-<div css={css'background-color: black;">inner text</div>
-<div css={css'background-color: black;">inner text</div>
-<div css={css'background-color: black;">inner text</div>
-<div css={css'background-color: black;">inner text</div>
-<div css={css'background-color: black;">inner text</div>
-<div css={css'background-color: black;">inner text</div>
+Aim to learn a new programming lang each year.
+Which lang did you pick up last year?
+Which langs would you like to learn?
