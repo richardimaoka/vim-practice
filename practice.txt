@@ -1,3 +1,2 @@
-Aim to learn a new programming lang each year.
-Which lang did you pick up last year?
-Which langs would you like to learn?
+class XHTMLDocument < XMLDocument; end
+class XHTMLTag < XMLTag; end
