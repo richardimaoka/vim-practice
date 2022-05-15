@@ -1,0 +1,24 @@
+You can think of a file as a text on a long roll of paper. The screen is a window of (often) 24 lines of text on that long roll.
+
+IN insert mode, as you fill up the screen with text, you will end up typing on the bottom line of the screen. When you reach the end and press ENTER, the top line rolls out of sight, and a blank line appears on the bottom of the screen for tne next text.
+
+This is called scrolling.
+You can think of a file as a text on a long roll of paper. The screen is a window of (often) 24 lines of text on that long roll.
+
+IN insert mode, as you fill up the screen with text, you will end up typing on the bottom line of the screen. When you reach the end and press ENTER, the top line rolls out of sight, and a blank line appears on the bottom of the screen for tne next text.
+
+This is called scrolling.
+
+You can think of a file as a text on a long roll of paper. The screen is a window of (often) 24 lines of text on that long roll.
+
+IN insert mode, as you fill up the screen with text, you will end up typing on the bottom line of the screen. When you reach the end and press ENTER, the top line rolls out of sight, and a blank line appears on the bottom of the screen for tne next text.
+
+This is called scrolling.
+
+This is called scrolling.
+This is called scrolling.
+This is called scrolling.
+This is called scrolling
+This is called scrolling.
+This is called scrolling.
+
